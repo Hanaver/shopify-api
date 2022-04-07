@@ -1,0 +1,11 @@
+{
+    "name": "andy/shopify-api",
+    "description": "Docking with Shopify",
+    "authors": [
+        {
+            "name": "andy",
+            "email": "jack.hanzhao@gmail.com"
+        }
+    ],
+    "require": {}
+}
