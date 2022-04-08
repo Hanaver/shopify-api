@@ -1,9 +1,9 @@
 {
-    "name": "andy/shopify-api",
+    "name": "hanzhao/shopify-api",
     "description": "Docking with Shopify",
     "authors": [
         {
-            "name": "andy",
+            "name": "hanzhao",
             "email": "jack.hanzhao@gmail.com"
         }
     ],
