@@ -11,5 +11,6 @@ return [
     'api_token' => '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',
     'api_admin_url' => [
         'product' => 'admin/api/2022-04/products.json',
+        'orders' => '/admin/api/2022-04/orders.json?status=any'
     ]
 ];

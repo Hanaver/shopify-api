@@ -7,5 +7,15 @@
             "email": "jack.hanzhao@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Shopifyapi\\ShopifyApiServiceProvider::class"
+            ],
+            "aliases": {
+                "Shopifyapi": "Shopifyapi\\ShopifyApi::class"
+            }
+        }
+    }
 }
